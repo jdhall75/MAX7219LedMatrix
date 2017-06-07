@@ -7,16 +7,6 @@
     "type": "git",
     "url": "https://github.com/jdhall75/MAX7219LedMatrix.git"
   },
-  "authors":
-  [
-    {
-      "name": "squix78",
-      "email": "",
-      "url": "https://blog.squix.org",
-      "maintainer": true
-    }
-  ],
-  "version": "3.7.7",
   "frameworks": "arduino",
   "platforms": "esp8266"
 }
