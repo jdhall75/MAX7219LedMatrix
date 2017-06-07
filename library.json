@@ -1,0 +1,22 @@
+{
+  "name": "MAX7219LedMatrix",
+  "keywords": "esp, esp8266, 7219, max7219",
+  "description": "ESP8266 Library for MAX7219",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jdhall75/MAX7219LedMatrix.git"
+  },
+  "authors":
+  [
+    {
+      "name": "squix78",
+      "email": "",
+      "url": "https://blog.squix.org",
+      "maintainer": true
+    }
+  ],
+  "version": "3.7.7",
+  "frameworks": "arduino",
+  "platforms": "esp8266"
+}
